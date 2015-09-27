@@ -1,5 +1,5 @@
-TestFX - TDD for JavaFX
-=======
+# TestFX - TDD for JavaFX
+
 Hier beschäftige ich mich mit dem Thema "TestFX" 
 [TestFX](https://github.com/TestFX/TestFX).
 
